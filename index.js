@@ -12,7 +12,8 @@ ________________________________________________________________*/
 
 // Your code here
 
-
+document.querySelector('#box-two').style.opacity = "100%";
+document.querySelector('#box-nine').style.opacity = "100%";
 
 
 
@@ -26,6 +27,6 @@ ________________________________________________________________*/
 
 // Your code here 
 
-
+document.querySelector('#hidden-message').textContent = "Here is my hidden message. Yay!";
 
 
